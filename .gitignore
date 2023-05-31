@@ -1,0 +1,7 @@
+.DS_Store
+
+!/.vscode/extensions.json
+
+/pnpm-lock.yaml
+
+/keyfile/**
